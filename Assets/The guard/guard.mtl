@@ -1,0 +1,30 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 24.01.2015 22:26:58
+
+newmtl Tex_0297_0_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\Games\Collapse\_Ripper\19.01.2015_19.42.44\Frames\Frame0000\Tex_0297_0.dds
+	map_Kd D:\Games\Collapse\_Ripper\19.01.2015_19.42.44\Frames\Frame0000\Tex_0297_0.dds
+
+newmtl Tex_0299_0_dds
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\Games\Collapse\_Ripper\19.01.2015_19.42.44\Frames\Frame0000\Tex_0299_0.dds
+	map_Kd D:\Games\Collapse\_Ripper\19.01.2015_19.42.44\Frames\Frame0000\Tex_0299_0.dds
